@@ -10,17 +10,17 @@
 </head>
 <body>
     <header>
-        <nav class="navbar bg-body-info fixed-top">
+        <nav class="navbar bg-primary fixed-top">
             <div class="container-fluid">
                 <a class="navbar-brand" href="/">UTS Laravel</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas"
+                <button class="navbar-toggler bg-light" type="button" data-bs-toggle="offcanvas"
                     data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar"
                     aria-labelledby="offcanvasNavbarLabel">
                     <div class="offcanvas-header">
-                        <h5 class="offcanvas-title" id="offcanvasNavbarLabel">Offcanvas</h5>
+                        <h5 class="offcanvas-title" id="offcanvasNavbarLabel">UTS Laravel</h5>
                         <button type="button" class="btn-close" data-bs-dismiss="offcanvas"
                             aria-label="Close"></button>
                     </div>
